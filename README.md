@@ -2,4 +2,8 @@
 # Semana-06 
 [Atividade comandos Linux.pdf](https://github.com/user-attachments/files/26257635/Comandos.Linux.-.Copia.pdf)
 
+# Semana-07
+Conteudos scripts
+# Semana-08
+
 
