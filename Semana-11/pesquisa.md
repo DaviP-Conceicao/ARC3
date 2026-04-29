@@ -2,7 +2,7 @@
 
 **Disciplina:** Administração de Redes de Computadores (ARC)  
 **Semana:** 11  
-**Professor:** Gaio  
+
 
 📒**Pesquisa**
 
