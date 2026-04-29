@@ -57,6 +57,6 @@ Para interpretar os dados brutos do SNMP existem tres  softwares profissionais c
 ---
 
 ## Referências 
-* 🤖 IA Gemini.
+* 🤖 IA Google Gemini.
 *  📚 **SUBRAMANIAN, Mani.** *Network Management: Principles and Practice*. 2nd Edition. Pearson, 2012.
 * 📚  **STALLINGS, William.** *SNMP, SNMPv2, SNMPv3, and RMON 1 and 2*. 3rd Edition. Addison-Wesley Professional, 1999.
