@@ -40,4 +40,4 @@ O SNMPv3 é mais seguro porque adiciona autenticação, criptografia e controle 
 * Referencias:
 - Material da disciplina ARC
 Cisco Packet Tracer
-IA ChatGPT ( Ferramneta de auxilio).
+IA ChatGPT ( Ferramenta de auxilio).
