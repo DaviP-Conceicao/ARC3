@@ -10,7 +10,7 @@ O objetivo deste laboratório foi configurar e testar o protocolo SNMP no Cisco 
 
 Abaixo está a topologia utilizada no laboratório:
 
-![Topologia SNMP](Screenshot_20260506_220842.png)
+![Topologia SNMP](Screenshot_20260506_230010.png)  
 
 ---
 
