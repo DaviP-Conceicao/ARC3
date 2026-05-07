@@ -8,8 +8,7 @@
 
 - Shell Script
 - Linux
-
-_ Packet Tracer
+- Packet Tracer
 - Ferramentas de redes
 
 ---
