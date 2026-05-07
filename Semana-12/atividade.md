@@ -18,11 +18,10 @@ Abaixo está a topologia utilizada no laboratório:
 
 ## 🔍 Valores retornados pelo SNMP
 
-### sysDescr
+### sysDescr and sysLocation
 ```text
 Cisco IOS Software, C2900 Software (C2900-UNIVERSALK9-M), Version 15.x
 
-### sysLocation
 ```text
 Laboratorio_Redes_IFSP
 ```
